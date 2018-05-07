@@ -6,7 +6,7 @@ class Conexao{
 	private function __construct(){
 		$usuarioBanco 		= "root";
 		$senhaBanco 		= "";
-		$nomeBanco 			= "bd_tutoria";
+		$nomeBanco 			= "perfumaria";
 		$enderecoLinkHost = "localhost";
 		
 		try{
