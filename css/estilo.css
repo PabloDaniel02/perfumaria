@@ -1,0 +1,59 @@
+body  {
+	background-image:url(../imagens/explosao.jpg);
+	background-size:cover;
+}
+.texto-centralizado{
+	text-align: center;
+	color:white
+}
+.btn-login{
+color:red
+}
+.meu-btn{
+	background-color:#00a79d;
+	width: 100px;
+	height: 40px;
+	cursor:poniter;
+	border-radius: 15px;
+	box-shadow: 0 0 20px;
+	color:white;
+}
+.formulario-login{
+	width: 250px;
+	margin: 0 auto;
+	margin-top: 150px;
+	border-radius: 15px;
+	background-color: rgba(0,0,0,0.1);
+	padding: 20px;
+	box-shadow: 0 0 20px;
+	color:white;
+	}
+.modal-body{
+	
+	margin: 0 auto;
+	
+	
+	background-color: rgba(0,0,0,0.9);
+	padding: 20px;
+	box-shadow: 0 0 20px;
+	color:red;
+}
+.bnt-default{
+	    color:#EE0000;
+    background-color: yellow;
+    border-color: ;
+}
+label {
+	cursor:pointer;	
+}
+input { 
+	cursor:text;
+}
+html{
+	cursor:pointer;
+}
+
+
+
+		  
+	 
